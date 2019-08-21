@@ -5,7 +5,7 @@ atlantis                  0.4.13     Terraform For Teams
 awless                    0.1.11     A Mighty CLI for AWS
 aws-iam-authenticator     0.4.0      A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 aws-okta                  0.19.4     aws-okta allows users to authenticate with AWS using Okta credentials
-awsping                   0.5.2      Upload multiple artifacts to GitHub Releases in parallel
+awsping                   0.5.2      Console tool to check the latency to each Amazon EC2 region
 aws-vault                 4.6.3      A vault for securely storing and accessing AWS credentials in development environments
 chamber                   2.3.2      CLI for managing secrets
 cli53                     0.8.12     Command line tool for Amazon Route 53
